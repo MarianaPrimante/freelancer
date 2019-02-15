@@ -263,7 +263,7 @@
             }
             
             .finalcontext {
-                padding: 0% 5% 5% 14%;
+                padding: 0% 5% 5% 13%;
                 margin-top: 1%;
             }
             
@@ -276,9 +276,8 @@
                 display: flex;
                 padding: 0%;
                 margin-top: 0%;
-                margin-left: 5%;
-                margin-right: 2%;
-                flex-grow: 2;
+                margin-left: 4%;
+                margin-right: 1%;
             }
             
             i.fab {
@@ -290,7 +289,7 @@
                 height: 10px;
                 width: 10px;
                 margin-top: 1%;
-                align-items: stretch;
+                align-items: center;
             }
             
             .boxfinal {
