@@ -40,22 +40,44 @@
                 background-color: #18bc9c;
                 background-size: 100%;
                 margin: 0%;
-                padding: 20%;
+                padding: 12%;
             }
             
             .text {
                 text-align: center;
-                padding: 0;
-                margin: 0;
+                padding: 0px;
+                margin: 0px;
             }
             
             .subtitle {
-                position: relative;
                 font-family: 'Montserrat', sans-serif;
                 color: white;
                 font-size: 70px;
-                padding: 0;
-                margin top: 5px;
+                padding: 220px 0px 20px 0px;
+                margin: 0px;
+            }
+            
+            .star {
+                text-align: center;
+                color: white;
+                margin-top: 2px;
+            }
+            
+            .lineone {
+                background-color: white;
+                display: inline-block;
+                width: 100px;
+                height: 4px;
+                border: 0px;
+            }
+            
+            i.fas {
+                position absolute;
+                top: 50%;
+                left: 50%;
+                margin-top: -25%;
+                padding: 10px;
+                font-size: 40px;
             }
             
             .subtext {
@@ -63,21 +85,33 @@
                 font-family: 'Lato', sans-serif;
                 color: white;
                 font-size: 25px;
-                padding: 0;
-                margin: 0;
             }
             
             .portfolioimages {
                 text-align: center;
-                margin-top: 10%;
+                margin-top: 5%;
             }
             
             .textimages {
                 color: #2c3e50;
                 font-size: 50px;
                 font-family: 'Montserrat', sans-serif;
-                margin-top: 100px;
+                margin: 100px 20px 20px 20px;
                 text-align: center;
+            }
+            
+            .startwo {
+                text-align: center;
+                color: #2c3e50;
+                margin-top: 2px;
+            }
+            
+            .linetwo {
+                background-color: #2c3e50;
+                display: inline-block;
+                width: 100px;
+                height: 4px;
+                border: 0px;
             }
             
             .imagecontext {
@@ -90,7 +124,7 @@
                 position: absolute;
                 width: 260px;
                 height: 260px;
-                top: 45%;
+                top: 50%;
                 left: 50%;
                 margin-top: -130px;
                 margin-left: -130px;
@@ -102,7 +136,7 @@
                 background-color: #18bc9c;
                 background-size: 100%;
                 margin: 0%;
-                padding: 20%;
+                padding: 10% 20%;
                 margin-top: 100px;
             }
             
@@ -111,7 +145,7 @@
                 color: white;
                 text-align: center;
                 font-size: 50px;
-                padding: 0px;
+                padding: 0px 0px 20px 0px;
                 margin: 0px;
                 margin-top: 0px;
             }
@@ -125,31 +159,26 @@
                 height: 30%;
                 text-align: left;
                 margin: 2px;
-                margin-top: 30px;
+                margin-top: 5px;
             }
             
             .buttondownload {
-                display: flex;
-                justify-content: center;
-                background-color: #18bc9c;
-                background-position: center;
-                background-size: 10px;
                 color: white;
                 font-family: 'Lato', sans-serif;
-                border: 10px;
+                background-color: transparent;
                 font-size: 20px;
-                margin-top: 10px;
-                border: 5px;
+                margin-top: 30px;
                 border-radius: 5px;
                 padding: 15px;
-                border-color: white;
+                border: 2px solid white;
+                text-align: center;
             }
             
             .contact {
                 display: inline-block;
                 background-size: 100%;
                 margin: 0%;
-                padding: 20%;
+                padding: 10% 20%;
             }
             
             .contacttitle {
@@ -157,7 +186,7 @@
                 font-family: 'Montserrat', sans-serif;
                 color: #2c3e50;
                 font-size: 50px;
-                margin-top: 1px;
+                margin: 1px 0px 20px 0px;
                 padding-top: 0px;
                 border: 0px;
             }
@@ -234,20 +263,20 @@
             }
             
             .finalcontext {
-                padding: 0% 5% 5% 10%;
+                padding: 0% 5% 5% 14%;
                 margin-top: 1%;
             }
             
             .finalcontexttwo {
-                padding: 0% 3% 5% 15%;
-                margin-top: 1%;
+                padding: 0% 5% 5% 21%;
+                margin: 1% 8% 0% 0%;
             }
             
             .icons {
                 display: flex;
                 padding: 0%;
                 margin-top: 0%;
-                margin-left: 0%;
+                margin-left: 5%;
                 margin-right: 2%;
                 flex-grow: 2;
             }
