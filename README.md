@@ -8,16 +8,13 @@
 
 Para completar este desafio, criamos um repositório boilerplate (template inicial) com todos os recursos necessários. Isso inclui imagens, estrutura de pastas e arquivos onde você irá escrever seu código.
 
-## Fluxo de trabalho
+## Descrição do processo de desenvolvimento
+Com os arquivos HTML e CSS relacionados criar uma página igual ao exemplo mostrado.
 
-1. Faça um [**fork**](https://gist.github.com/ivandevp/1de47ae69a5e139a6622d78c882e1f74)
-   deste repositório.
-
-2. Em seguida você deverá **clonar** esse fork em seu computador. Lembre-se do comando `git clone` e de sua estrutura, que normalmente é essa:
-
-   ```bash
-   git clone https://github.com/<nome-de-usuario>/freelancer.git
-   ```
+* Criar um corpo HTML padrão com diversas partes e inserir todo o conteúdo de texto e imagens conforme a sequência mostrada na página.
+* Formatar no CSS o posicionamento correto dos botões, textos, imagens etc através principalmente das classes criadas para cada parte do HTML.
+* Formatar as cores, fontes, botões caixas de texto, etc com cores e tamanhos semelhantes ao exemplo.
+* Utilizar principalmente flexbox para o posicionamento dos elementos adicionados na página através dos elementos-mãe e as propriedades para elementos-filhas.
 
 ## Objetivo
 
