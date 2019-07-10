@@ -2,7 +2,7 @@
                 margin: 0%;
                 padding: 0%;
             }
-            
+
             .home {
                 background-color: #2c3e50;
                 margin: 0%;
@@ -10,7 +10,7 @@
                 width: 100%;
                 height: 110px;
             }
-            
+
             .name {
                 display: inline;
                 text-align: left;
@@ -20,7 +20,7 @@
                 margin: 0%;
                 padding: 500px 500px 110px 110px;
             }
-            
+
             .topics {
                 display: inline-block;
                 text-align: right;
@@ -29,26 +29,26 @@
                 margin: 0%;
                 padding: 50px 50px 0px 0px;
             }
-            
+
             li {
                 display: inline-block;
                 padding: 5px;
                 text-align: right;
             }
-            
+
             .profile {
                 background-color: #18bc9c;
                 background-size: 100%;
                 margin: 0%;
                 padding: 12%;
             }
-            
+
             .text {
                 text-align: center;
                 padding: 0px;
                 margin: 0px;
             }
-            
+
             .subtitle {
                 font-family: 'Montserrat', sans-serif;
                 color: white;
@@ -56,13 +56,13 @@
                 padding: 220px 0px 20px 0px;
                 margin: 0px;
             }
-            
+
             .star {
                 text-align: center;
                 color: white;
                 margin-top: 2px;
             }
-            
+
             .lineone {
                 background-color: white;
                 display: inline-block;
@@ -70,7 +70,7 @@
                 height: 4px;
                 border: 0px;
             }
-            
+
             i.fas {
                 position absolute;
                 top: 50%;
@@ -79,19 +79,19 @@
                 padding: 10px;
                 font-size: 40px;
             }
-            
+
             .subtext {
                 position: relative;
                 font-family: 'Lato', sans-serif;
                 color: white;
                 font-size: 25px;
             }
-            
+
             .portfolioimages {
                 text-align: center;
                 margin-top: 5%;
             }
-            
+
             .textimages {
                 color: #2c3e50;
                 font-size: 50px;
@@ -99,13 +99,13 @@
                 margin: 100px 20px 20px 20px;
                 text-align: center;
             }
-            
+
             .startwo {
                 text-align: center;
                 color: #2c3e50;
                 margin-top: 2px;
             }
-            
+
             .linetwo {
                 background-color: #2c3e50;
                 display: inline-block;
@@ -113,13 +113,13 @@
                 height: 4px;
                 border: 0px;
             }
-            
+
             .imagecontext {
                 width: 25%;
                 height: 25%;
                 padding: 1%;
             }
-            
+
             .imageprofile {
                 position: absolute;
                 width: 260px;
@@ -129,7 +129,7 @@
                 margin-top: -130px;
                 margin-left: -130px;
             }
-            
+
             .about {
                 text-align: center;
                 position: relative;
@@ -139,7 +139,7 @@
                 padding: 10% 20%;
                 margin-top: 100px;
             }
-            
+
             .aboutfont {
                 font-family: 'Montserrat', sans-serif;
                 color: white;
@@ -149,7 +149,7 @@
                 margin: 0px;
                 margin-top: 0px;
             }
-            
+
             .abouttext {
                 display: inline-flex;
                 font-family: 'Lato', sans-serif;
@@ -161,7 +161,7 @@
                 margin: 2px;
                 margin-top: 5px;
             }
-            
+
             .buttondownload {
                 color: white;
                 font-family: 'Lato', sans-serif;
@@ -173,14 +173,14 @@
                 border: 2px solid white;
                 text-align: center;
             }
-            
+
             .contact {
                 display: inline-block;
                 background-size: 100%;
                 margin: 0%;
                 padding: 10% 20%;
             }
-            
+
             .contacttitle {
                 text-align: center;
                 font-family: 'Montserrat', sans-serif;
@@ -190,7 +190,7 @@
                 padding-top: 0px;
                 border: 0px;
             }
-            
+
             .textcontact {
                 text-align: left;
                 margin: 0px;
@@ -200,7 +200,7 @@
                 font-family: 'Lato', sans-serif;
                 font-size: 25px;
             }
-            
+
             .texttwo {
                 text-align: left;
                 margin: 0px;
@@ -210,7 +210,7 @@
                 font-family: 'Lato', sans-serif;
                 font-size: 25px;
             }
-            
+
             .button {
                 display: flex;
                 justify-content: flex-start;
@@ -225,78 +225,73 @@
                 border-radius: 5px;
                 padding: 15px;
             }
-            
-            .final {
-                background-color: #2c3e50;
-            }
-            
-            .finaltitle {
-                display: flex;
-                font-family: 'Montserrat', sans-serif;
-                color: white;
-                text-align: center;
-                font-size: 20px;
-                flex-basis: 30%;
-                flex-direction: row;
-                justify-content: space-evenly;
-                flex-wrap: nowrap;
-                align-items: stretch;
-            }
-            
-            .finaltitletext {
-                padding: 60px 10px 10px 10px;
-                margin: 0px;
-            }
-            
-            .finaltext {
-                display: flex;
+
+            .font-lato {
                 font-family: 'Lato', sans-serif;
-                color: white;
-                text-align: center;
-                font-size: 20px;
-                flex-basis: 100%;
-                flex-direction: row;
-                flex-wrap: nowrap;
-                justify-content: center;
-                align-items: stretch;
-                align-content: center;
             }
-            
-            .finalcontext {
-                padding: 0% 5% 5% 13%;
-                margin-top: 1%;
+
+            .font-montserrat {
+                font-family: 'Montserrat', sans-serif;
             }
-            
-            .finalcontexttwo {
-                padding: 0% 5% 5% 21%;
-                margin: 1% 8% 0% 0%;
-            }
-            
-            .icons {
+
+            .footer {
+                height: 100%;
                 display: flex;
-                padding: 0%;
-                margin-top: 0%;
-                margin-left: 4%;
-                margin-right: 1%;
-            }
-            
-            i.fab {
-                margin: 10px;
-                padding: 10%;
+                background-color: #212529;
                 color: white;
+                justify-content: space-evenly;
+                margin: auto;
+            }
+
+            .container-footer {
+                display: flex;
+                align-items: flex-start;
+            }
+
+            .footer div {
+                width: 300px;
+                margin: 0 32px 0;
+                display: flex;
+                justify-content: center;
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .footer p {
+                margin-top: 0px;
+            }
+
+            .footer ul {
+                margin-top: 0px;
+                padding: 0;
+                display: flex;
+                justify-content: space-around;
+            }
+
+            .footer li {
+                width: 50px;
+                height: 50px;
                 border: 2px solid white;
                 border-radius: 50%;
-                height: 10px;
-                width: 10px;
-                margin-top: 1%;
+                display: flex;
+                justify-content: center;
                 align-items: center;
             }
-            
-            .boxfinal {
-                font-family: 'Lato', sans-serif;
+
+            .footer li a {
                 color: white;
-                text-align: center;
-                font-size: 13px;
-                background-color: #15212e;
-                padding: 2%;
+            }
+
+            .footer li:hover {
+                background-color: white;
+                transition: 0.5s;
+                cursor: pointer;
+            }
+
+            .copyright {
+                display: flex;
+                justify-content: center;
+                background-color: #212529;
+                color: white;
+                margin: auto;
             }
